@@ -1,5 +1,5 @@
 # randmatrix
-The task is to fill a matrix (m × n) with a random, int, unique numbers from a certain range (for example for the range 1-3 possible numbers are: 1, 2)  
+The task is to fill a matrix (m × n) with random, int, unique numbers from a certain range (for example for the range 1-3 possible numbers are: 1, 2)  
 
 ## Examples
 
